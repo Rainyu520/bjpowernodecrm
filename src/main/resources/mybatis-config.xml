@@ -27,9 +27,10 @@
   
  
   <mappers>
-   <!--
-      <package name="com.xxx.dao"/>-->
-    
+
+      <package name="com.bjpowernode.settings.dao"/>
+      <package name="com.bjpowernode.wordbench.dao"/>
+
   </mappers>
 </configuration>
 
